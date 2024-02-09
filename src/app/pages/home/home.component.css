@@ -1,0 +1,9 @@
+.home__header {
+    width: 100%;
+    margin: auto;
+    padding: 10px 0 10px 0;
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
